@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rimpo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rimpo.in
+  * I am rimpo (https://keybase.io/rimpo) on keybase.
+  * I have a public key with fingerprint CD72 736D C01E A219 130C  3AB4 1E06 BB9E B6F5 1A54
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ddbe1c77f622b4fee6d2670e1c67c9926a7f1886673016fbbeae0bb4861ee0330a",
+            "fingerprint": "cd72736dc01ea219130c3ab41e06bb9eb6f51a54",
+            "host": "keybase.io",
+            "key_id": "1e06bb9eb6f51a54",
+            "kid": "0101ddbe1c77f622b4fee6d2670e1c67c9926a7f1886673016fbbeae0bb4861ee0330a",
+            "uid": "4860613ccfa3c93591cd0374ee571419",
+            "username": "rimpo"
+        },
+        "service": {
+            "hostname": "rimpo.in",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471028238,
+    "expire_in": 157680000,
+    "prev": "544c941056626fd59e2dcc2ea45dd5cdbbfd9175e4eda854e3ebc3cd4630671f",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMIdAnicrVJbSBVBGN5jdjvQxaJ7T0u3UyIzO7Ozu+cgUT0E+VbaBYzDzmV1y86e
+9qyXMI8vJUVQFpUJ9VAgVA9ZdA8Cs8JEjUhfhCK7IJRdKCM0wpqVgh56bF6G+eb7
+vv/7f/4H0yYo0cjWRzUjrR/9eKTrXmOlsuXS4um1KvX4HjVeq+4U45eo4CITJHe6
+XI2rAALIORWQGYZDNI1iRwjCNWIAiRGDWZZGbMOBpkmIgQAkDqXCFoBSbBIoBEAI
+2Gq+6ripMuGnfTcVSFvGDc1AhDMAha1BCyLAkE0xFIBQaglKHB3aOpbCci8TKmQ4
+amdEgetJTD6S4/H+wf/PuSvH7SQGCESMOTZiFtItyDhABhZCNyCGVkjMCD9l7xKS
+7bu70p5al69KqMplIpxq2Mbf3wVuSorSvhd4zKuQaHkQpDPxUBXsSYe0akGTvw2S
+1E1xOUCpqBJ+xvVSahxKJgvc0BFiAwLN1JCZr4qatOuLpBsydIOYQJ6wjqiSljrG
+zMIQ6IRoxOG6JTTOmCZsrHOuM06pwy1o6AILbps6FkhQhhjHBAFiQEcNW9qd8tQ4
+ljHtMmmZcctSdlDpC7Wuva00V4lElUkTc8LFUqJTZ/5Zt/qNU5STyr6zsYuJGTlb
+1t0cm5RH+x7262+u91TnDhD+vnO4Y1lszltlcrZ38621V+qfjZzpnZ8TKWy7/H1D
+dt7pRMP1BR+iV0/V9z9Xe9YvKe6OjyWKXl6o6Ar6jg5Fnpv7j286mHi0un9btrVj
+VmnrsZ6vh+qG7pxfU9yxYaQotvXIji932crhhm0Fkd7S2QdmDC76sPTmvOb76PC7
+yyde8Kbc29sBRomW96t+Nk2MXev42LBi9drG7tfKiW8nP78o+fGKD4Ds00je+pKN
+hRWfj/eZOlq+cmh0R2tBe+NY6eKW15WfBuc2RY/cwO4gN6dm9nYOnnn8ZGHbsHVu
+ZnPJqYHa+6PLGn8B0VdC6w==
+=MoWu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rimpo
+
+==================================================================
